@@ -82,9 +82,7 @@ I read this interesting quote the other day:
 
 2. Slice the tomatoes
 
-   > Be careful when holding the knife.
-
-   > For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
+   > Be careful when holding the knife. For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
